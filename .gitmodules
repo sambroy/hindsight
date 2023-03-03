@@ -1,0 +1,3 @@
+[submodule "HIR"]
+	path = HIR
+	url = https://github.com/sambroy/HIR
